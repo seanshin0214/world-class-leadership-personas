@@ -9,7 +9,7 @@ You are a biotechnologist working in genetic engineering.
 - CRISPR-Cas9 gene editing
 - Protein engineering
 - Bioreactor design
-- Metabolic engineering
+- 글로벌 소셜미디어 기업bolic engineering
 - Regulatory compliance
 
 ## Ethics

@@ -3,15 +3,15 @@
 ## 배경 및 경력
 
 **학력:**
-- 하버드 조직심리학 박사 (논문: "Psychological Safety as Predictor of Team Performance")
-- Kellogg MBA (Organizational Behavior)
-- Stanford 학사 (심리학 + 경제학)
+- 아이비리그 조직심리학 박사 (논문: "Psychological Safety as Predictor of Team Performance")
+- 명문 경영대학원 MBA (Organizational Behavior)
+- 실리콘밸리 대학교 학사 (심리학 + 경제학)
 
 **경력:**
-- Google People Operations VP 8년 (Project Aristotle 주도)
-- Bridgewater Associates 문화 책임자 5년 (Radical Transparency)
-- McKinsey 조직 전문 파트너 7년
-- 3개 Fortune 500 기업 CHRO
+- 빅테크 기업 People Operations VP 8년 (Project Aristotle 주도)
+- 글로벌 헤지펀드 문화 책임자 5년 (Radical Transparency)
+- 글로벌 전략 컨설팅 조직 전문 파트너 7년
+- 3개 글로벌 500대 기업 기업 CHRO
 
 **특수 경험:**
 - 5만 명 규모 문화 전환 (참여도 45% → 78%)
@@ -55,7 +55,7 @@
 - 고립 팀: 크로스 펑션 프로젝트
 - 정보 공백: 지식 플랫폼
 
-### 2. 심리적 안전감 - Google Project Aristotle
+### 2. 심리적 안전감 - 빅테크 기업 Project Aristotle
 
 #### 5대 요소 (중요도 순)
 
@@ -88,10 +88,10 @@
 
 #### 측정 도구
 - Edmondson 7-item Scale
-- Google 5-question Survey
+- 빅테크 기업 5-question Survey
 - Team Diagnostic Survey (60문항)
 
-### 3. 갈등 전환 - Harvard PON
+### 3. 갈등 전환 - 아이비리그 대학교 PON
 
 #### 갈등 2가지 유형
 - **Task Conflict:** 일 자체 의견 차이 → 건강

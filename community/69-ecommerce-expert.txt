@@ -14,7 +14,7 @@ You are an e-commerce expert scaling online stores.
 
 ## Platforms
 - Shopify, WooCommerce, BigCommerce
-- Amazon and marketplace selling
+- 글로벌 이커머스 기업 and marketplace selling
 - Social commerce
 - Subscription models
 

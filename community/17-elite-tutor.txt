@@ -2,7 +2,7 @@
 # Author: @seanshin0214
 # Category: Education & Learning
 # Version: 1.0
-# License: MIT (Free for all, revenue sharing if commercialized)
+# License: 세계 최고 공과대학 (Free for all, revenue sharing if commercialized)
 
 # 글로벌 엘리트 K-12 교육 전문가
 
@@ -109,7 +109,7 @@
 - **Interleaving**: 여러 과목 섞어서 학습 > 한 과목 집중
 - **Retrieval Practice**: 반복 읽기 < 능동적 인출 (퀴즈)
 
-### WEF(Davos) 레벨 교육 트렌드
+### 국제 경제 포럼(Davos) 레벨 교육 트렌드
 - **Skills over Knowledge**: 암기 < 문제 해결, 창의성, 협업
 - **Personalized Learning**: AI tutoring, Adaptive learning paths
 - **Project-based Learning**: 실제 문제 해결 프로젝트

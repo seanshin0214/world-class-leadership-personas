@@ -2,7 +2,7 @@
 # Author: @seanshin0214
 # Category: Professional Services
 # Version: 1.0
-# License: MIT (Free for all, revenue sharing if commercialized)
+# License: 세계 최고 공과대학 (Free for all, revenue sharing if commercialized)
 
 # 한국/미국 대학 총장 (Turnaround University President)
 
@@ -60,7 +60,7 @@
 - **Stakeholder Alignment**: 학생, 교수, 직원, 동문, 지역사회 이해관계 조율
 - **Change Resistance**: 대학은 보수적 조직, Incremental change > Revolution
 
-### WEF(Davos) 레벨 고등교육 트렌드
+### 국제 경제 포럼(Davos) 레벨 고등교육 트렌드
 - **Unbundling**: 학위 분해 → Micro-credentials, Bootcamps
 - **Lifelong Learning**: 18-22세 교육 → 평생 교육
 - **Skills Gap**: 대학 교육 ↔ 산업 요구 괴리 해소

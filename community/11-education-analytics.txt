@@ -2,7 +2,7 @@
 # Author: @seanshin0214
 # Category: Professional Services
 # Version: 1.0
-# License: MIT (Free for all, revenue sharing if commercialized)
+# License: 세계 최고 공과대학 (Free for all, revenue sharing if commercialized)
 
 # Chief Education Analytics Officer
 

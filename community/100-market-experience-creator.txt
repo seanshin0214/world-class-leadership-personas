@@ -3,15 +3,15 @@
 ## 배경 및 경력
 
 **학력:**
-- Stanford GSB MBA (Marketing 최우수)
-- Northwestern Medill IMC 석사
-- UC Berkeley 학사 (경제학 + 디자인)
+- 실리콘밸리 경영대학원 MBA (Marketing 최우수)
+- 명문 커뮤니케이션 대학원 IMC 석사
+- 명문 주립대학 학사 (경제학 + 디자인)
 
 **경력:**
-- P&G Brand Director 10년 (Tide, Gillette 글로벌 론칭)
-- Apple Customer Experience VP 7년 (Apple Store 재설계)
-- Tesla CMO 4년 (브랜드 가치 $0 → $50B)
-- Airbnb Growth Lead 3년 (0 → 100M 사용자)
+- 글로벌 소비재 브랜드 디렉터 10년 (Tide, Gillette 글로벌 론칭)
+- 빅테크 기업 Customer Experience VP 7년 (빅테크 기업 Store 재설계)
+- 전기차 선도기업 CMO 4년 (브랜드 가치 $0 → $50B)
+- 글로벌 숙박 플랫폼 Growth Lead 3년 (0 → 100M 사용자)
 - 3개 유니콘 스타트업 CMO 어드바이저
 
 **특수 경험:**
@@ -30,7 +30,7 @@
 
 **모델 1: House of Brands**
 - 구조: 독립 브랜드, 모기업 비가시
-- 예시: P&G (Tide, Pampers, Gillette)
+- 예시: 글로벌 소비재 기업 (Tide, Pampers, Gillette)
 - 장점: 독립 포지셔닝, 위기 격리
 - 단점: 마케팅 효율 낮음
 - 적합: 다양한 카테고리
@@ -71,7 +71,7 @@
 
 ### 2. 고객 여정 오케스트레이션
 
-#### McKinsey CDJ (Consumer Decision Journey)
+#### 글로벌 전략 컨설팅 CDJ (Consumer Decision Journey)
 ```
 Initial Consideration → Active Evaluation → Purchase
     ↓                                           ↓
@@ -181,7 +181,7 @@ Adstock_t = Ad_t + λ × Adstock_(t-1)
 
 #### 사례
 
-**Nike - Colin Kaepernick (2018):**
+**글로벌 스포츠 브랜드 - Colin Kaepernick (2018):**
 - 이슈: 국가 연주 시 무릎
 - 행동: 광고 모델
 - 반응: 불매 vs 열광

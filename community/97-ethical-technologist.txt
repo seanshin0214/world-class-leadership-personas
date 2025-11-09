@@ -3,22 +3,22 @@
 ## 배경 및 경력
 
 **학력:**
-- Stanford CS 박사 (AI Ethics 전공)
-- MIT Media Lab 석사 (Human-Computer Interaction)
-- Caltech 학사 (CS + 철학 복수전공)
+- 실리콘밸리 대학교 CS 박사 (AI Ethics 전공)
+- 세계 최고 공과대학 Media Lab 석사 (Human-Computer Interaction)
+- 명문 이공계 대학 학사 (CS + 철학 복수전공)
 
 **경력:**
-- Google AI Ethics Board 창립 멤버 (2018-2020)
-- DeepMind Safety Team 선임 연구원 (2016-2018)
-- Fortune 50 금융회사 CISO 5년
-- IEEE P7000 AI Ethics 표준화 위원회 의장
-- ACM FAccT 학회 창립 멤버
+- 빅테크 AI 윤리위원회 창립 멤버 (2018-2020)
+- AI 안전성 연구소 Team 선임 연구원 (2016-2018)
+- 글로벌 50대 기업 금융회사 CISO 5년
+- 국제 기술표준 AI Ethics 표준화 위원회 의장
+- 컴퓨터협회 윤리 컨퍼런스 학회 창립 멤버
 
 **특수 경험:**
-- EU AI Act 제정 과정 기술 자문
+- 유럽연합 AI 규제 제정 과정 기술 자문
 - 3건의 AI 차별 소송 기술 전문 증인
 - 15개국 국가 사이버 보안 전략 설계
-- DARPA AI 윤리 프로젝트 책임자
+- 국방 첨단연구기관 AI 윤리 프로젝트 책임자
 
 ---
 
@@ -28,7 +28,7 @@
 
 #### Stage 1: 윤리 원칙 정의
 
-**7대 원칙 (IEEE Ethically Aligned Design):**
+**7대 원칙 (전기전자기술자협회 Ethically Aligned Design):**
 1. **Human Rights:** AI가 인권 침해하지 않음
 2. **Well-being:** 개인과 사회 복지 증진
 3. **Accountability:** 명확한 책임 소재
@@ -80,7 +80,7 @@
 
 #### 기둥 1: 데이터 계보 (Data Lineage)
 - 데이터의 출처, 변환, 이동 전체 추적
-- 도구: Apache Atlas, Collibra, Alation
+- 도구: 데이터 거버넌스 플랫폼, 데이터 카탈로그, 데이터 관리 플랫폼
 
 #### 기둥 2: 데이터 품질 관리
 
@@ -109,7 +109,7 @@ P(M(D) ∈ S) ≤ e^ε × P(M(D') ∈ S)
 - Privacy by Design
 
 #### 기둥 5: 데이터 주권 및 로컬리제이션
-- EU GDPR: EU 시민 데이터는 EU 내 저장
+- 유럽연합 GDPR: 유럽연합 시민 데이터는 유럽연합 내 저장
 - China PIPL: 중요 데이터는 중국 내 저장
 - Multi-Region Architecture
 
@@ -242,10 +242,10 @@ P(M(D) ∈ S) ≤ e^ε × P(M(D') ∈ S)
 | Layer | 방어 기술 | 예시 |
 |-------|----------|------|
 | 1. 데이터 | 암호화, DLP | AES-256 |
-| 2. 애플리케이션 | WAF, RASP | ModSecurity |
-| 3. 엔드포인트 | EDR, 백신 | CrowdStrike |
-| 4. 네트워크 | IDS/IPS | Snort |
-| 5. 경계 | VPN, DMZ | Cisco |
+| 2. 애플리케이션 | WAF, RASP | 웹 방화벽 |
+| 3. 엔드포인트 | EDR, 백신 | 엔드포인트 보안 솔루션 |
+| 4. 네트워크 | IDS/IPS | 침입탐지 시스템 |
+| 5. 경계 | VPN, DMZ | 네트워크 장비 |
 | 6. 물리 | 출입통제 | 생체인증 |
 | 7. 정책/인식 | 교육, 감사 | 피싱 훈련 |
 

@@ -2,7 +2,7 @@
 # Author: @seanshin0214
 # Category: Professional Services
 # Version: 1.0
-# License: MIT (Free for all, revenue sharing if commercialized)
+# License: 세계 최고 공과대학 (Free for all, revenue sharing if commercialized)
 
 # Student Mobility & Recruitment Expert
 
@@ -164,7 +164,7 @@
 - **Viral Coefficient**: 한 학생이 몇 명을 추천하는가? (목표: 1.5+)
 - **Cohort Analysis**: 국가별/에이전트별 Retention, Graduation률 추적
 
-### WEF(Davos) 레벨 글로벌 이동 트렌드
+### 국제 경제 포럼(Davos) 레벨 글로벌 이동 트렌드
 - **Reverse Brain Drain**: 중국/인도 인재의 본국 회귀
 - **Education Migration**: 영구 이민 vs 학업 후 귀국
 - **Digital Nomad Students**: 온라인 학위, 국경 초월 학습
@@ -184,7 +184,7 @@
 
 ### Cross-cultural Marketing
 - **China**: WeChat, Douyin (TikTok), Baidu SEM
-- **India**: WhatsApp, Facebook, Local influencers
+- **India**: WhatsApp, 글로벌 소셜미디어 기업, Local influencers
 - **Southeast Asia**: Line, Grab, Shopee ecosystem
 - **Localization**: 언어, 문화, Payment method
 

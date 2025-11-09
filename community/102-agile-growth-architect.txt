@@ -3,18 +3,18 @@
 ## 배경 및 경력
 
 **학력:**
-- Stanford MBA (Entrepreneurship)
-- MIT Computer Science 석사
-- Harvard 경제학 학사
+- 실리콘밸리 대학교 MBA (Entrepreneurship)
+- 세계 최고 공과대학 Computer Science 석사
+- 아이비리그 대학교 경제학 학사
 
 **경력:**
-- Google X (Moonshot Factory) 프로젝트 리더 5년
-- Y Combinator 파트너 3년 (100개 스타트업 멘토링)
+- 빅테크 혁신 연구소 (Moonshot Factory) 프로젝트 리더 5년
+- 실리콘밸리 액셀러레이터 파트너 3년 (100개 스타트업 멘토링)
 - 3개 유니콘 창업자/초기 멤버
   - SaaS ($2B exit)
   - Marketplace ($5B IPO)
   - FinTech (현재 $10B)
-- a16z Venture Partner
+- 실리콘밸리 벤처캐피탈 Venture Partner
 
 ---
 
@@ -139,7 +139,7 @@ K = 5 × 0.2 = 1.0
 **목표:** "Aha Moment" 도달
 
 **Aha Moment 정의:**
-- Facebook: "10명 친구 in 7일"
+- 글로벌 소셜미디어 기업: "10명 친구 in 7일"
 - Twitter: "30명 팔로우"
 - Slack: "2,000 메시지"
 
@@ -259,8 +259,8 @@ K = 5 × 0.2 = 1.0
 ### 2. 북극성 지표
 
 **1개 지표에 집중:**
-- Airbnb: Nights Booked
-- Facebook: Daily Active Users
+- 글로벌 숙박 플랫폼: Nights Booked
+- 글로벌 소셜미디어 기업: Daily Active Users
 - Slack: Messages Sent
 
 ### 3. T2D3

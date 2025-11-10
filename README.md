@@ -1,24 +1,24 @@
-# 🎭 Persona MCP - Advanced AI Persona Management System
+# 🎯 Leader's Decision Making Assistants
 
-**World's First MCP Persona Marketplace with Smart Context Detection, Persona Chaining, and 80%+ Token Savings**
+**108 Professional Personas for Strategic Leadership & Expert Decision Making**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/seanshin0214/persona-mcp?style=social)](https://github.com/seanshin0214/persona-mcp)
+[![GitHub Stars](https://img.shields.io/github/stars/seanshin0214/leaders-decision-assistants?style=social)](https://github.com/seanshin0214/leaders-decision-assistants)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Community Personas](https://img.shields.io/badge/personas-103-blue)](https://github.com/seanshin0214/persona-mcp/tree/main/community)
+[![Professional Personas](https://img.shields.io/badge/personas-108-blue)](https://github.com/seanshin0214/leaders-decision-assistants/tree/main/community)
 
 An advanced persona management MCP server for Claude Desktop that revolutionizes how AI maintains specialized expertise while dramatically reducing token consumption.
 
 ---
 
-## ✨ What is Persona MCP?
+## ✨ What is Leader's Decision Making Assistants?
 
-Persona MCP is a **Model Context Protocol (MCP) server** that allows you to:
-- 🎯 **Switch between 103 world-class expert personas** on demand
+A **Model Context Protocol (MCP) server** providing 108 professional expert personas for strategic decision making:
+- 🎯 **Access 108 world-class expert advisors** on demand
 - 🚢 **Save 80%+ tokens** with "Submarine Mode" (0 tokens until triggered)
-- 🧠 **Smart context detection** - AI suggests the right persona automatically
-- 🔗 **Chain personas** for multi-step workflows
-- 🌍 **Community marketplace** - share and monetize your expertise
+- 🧠 **Smart context detection** - AI suggests the right expert automatically
+- 🔗 **Chain multiple experts** for comprehensive analysis
+- 🌍 **Professional expertise** - from strategy to implementation
 
 ---
 
@@ -31,11 +31,11 @@ Persona MCP is a **Model Context Protocol (MCP) server** that allows you to:
 - **Simple CRUD Operations**: Create, update, delete personas with MCP tools
 
 ### v2.0 Innovations
-- **🧠 Smart Context Detection**: AI analyzes conversation and suggests optimal persona
-- **🔗 Persona Chaining**: Execute multiple personas sequentially for complex tasks
+- **🧠 Smart Context Detection**: AI analyzes conversation and suggests optimal expert
+- **🔗 Expert Chaining**: Execute multiple experts sequentially for complex decisions
 - **📊 Usage Analytics**: Track patterns and improve recommendations (local storage only)
-- **🌟 Community Collection**: 103 expert personas ready to use
-- **🏛️ The Council for Future Design**: 8 world-class advisory personas (NEW!)
+- **🌟 Professional Collection**: 108 expert advisors ready to use
+- **🏛️ The Council for Future Design**: 8 world-class strategic advisors (NEW!)
 
 ---
 
@@ -48,7 +48,7 @@ Every conversation: 500 tokens consumed
 Even when expertise isn't needed
 ```
 
-### Persona MCP Approach
+### Leader's Decision Making Assistants Approach
 ```
 Default: 0 tokens (Submarine Mode)
 When needed: @persona:name → Active only for that conversation
@@ -70,8 +70,8 @@ Next conversation: Back to 0 tokens
 
 1. **Clone and Install**
 ```bash
-git clone https://github.com/seanshin0214/persona-mcp.git
-cd persona-mcp
+git clone https://github.com/seanshin0214/leaders-decision-assistants.git
+cd leaders-decision-assistants
 npm install
 ```
 
@@ -84,7 +84,7 @@ Edit `%APPDATA%\Claude\claude_desktop_config.json` (Windows) or `~/Library/Appli
   "mcpServers": {
     "persona": {
       "command": "node",
-      "args": ["C:\\path\\to\\persona-mcp\\index.js"]
+      "args": ["C:\\path\\to\\leaders-decision-assistants\\index.js"]
     }
   }
 }
@@ -143,7 +143,7 @@ Reason: Educational context detected
 
 ## 🌟 Community Persona Collection
 
-**103 world-class expert personas included!**
+**108 world-class expert personas included!**
 
 ### 🏛️ The Council for Future Design (NEW!)
 
@@ -164,8 +164,8 @@ The Council represents the pinnacle of business expertise - world-class advisors
 - `101-execution-capital-alchemist` - **실행 자본 연금술사**: Wharton MBA, McKinsey Ops Partner, Goldman M&A MD, KKR/Blackstone. DCF/LBO modeling, Lean Six Sigma DMAIC, PMI 100-day plans, turnaround ($500M saved)
 - `102-agile-growth-architect` - **민첩한 성장 설계자**: Google X, Y Combinator Partner, 3x Unicorn founder, a16z. Product-Market Fit (Sean Ellis Test), AARRR funnel, viral growth (K-factor), 0→$10M ARR playbooks
 
-#### Sustainability (103)
-- `103-sustainability-policy-shaper` - **지속가능성 정책 설계자**: Harvard Kennedy MPA, UN SDG Officer, World Bank Green Bond, EU Climate Advisor. ESG materiality, Scope 1/2/3, Science-Based Targets, Net Zero roadmaps, PPP structures
+#### Sustainability (108)
+- `108-sustainability-policy-shaper` - **지속가능성 정책 설계자**: Harvard Kennedy MPA, UN SDG Officer, World Bank Green Bond, EU Climate Advisor. ESG materiality, Scope 1/2/3, Science-Based Targets, Net Zero roadmaps, PPP structures
 
 **When to Use the Council:**
 - Complex strategic decisions requiring multiple perspectives
@@ -318,7 +318,7 @@ We welcome contributions! Share your expertise with the community.
 
 1. Create persona following [community examples](community/)
 2. Include metadata (Author, Category, Version)
-3. Submit via [Persona Submission Issue](https://github.com/seanshin0214/persona-mcp/issues/new?template=persona_submission.md)
+3. Submit via [Persona Submission Issue](https://github.com/seanshin0214/leaders-decision-assistants/issues/new?template=persona_submission.md)
 4. Or create a Pull Request
 
 ### Revenue Sharing Promise
@@ -337,7 +337,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full details.
 
 ### Does this cost money to use?
 
-**No API costs.** Persona MCP is completely free to use. Unlike AI Council MCP (which calls multiple AI APIs), Persona MCP only manages text files on your local computer. It doesn't make any external API calls.
+**No API costs.** Leader's Decision Making Assistants is completely free to use. Unlike AI Council MCP (which calls multiple AI APIs), Leader's Decision Making Assistants only manages text files on your local computer. It doesn't make any external API calls.
 
 **What you need:**
 - ✅ Claude Desktop (free or paid subscription)
@@ -346,7 +346,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full details.
 - ❌ No pay-per-use costs
 
 **Cost structure:**
-- Persona MCP itself: **$0** (open source, MIT License)
+- Leader's Decision Making Assistants itself: **$0** (open source, MIT License)
 - Running personas in Claude Desktop: Uses your existing Claude subscription
 - The personas are just text prompts that enhance Claude's behavior
 
@@ -354,7 +354,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full details.
 
 **You:**
 - Your Claude Desktop subscription (if using Claude Pro)
-- No additional costs for Persona MCP
+- No additional costs for Leader's Decision Making Assistants
 
 **Creator (@seanshin0214):**
 - Does NOT pay for your Claude usage
@@ -363,10 +363,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full details.
 
 ### Is this a cloud service or SaaS?
 
-**No.** Persona MCP runs entirely on your local computer.
+**No.** Leader's Decision Making Assistants runs entirely on your local computer.
 
 **How it works:**
-1. You download and install Persona MCP on your computer
+1. You download and install Leader's Decision Making Assistants on your computer
 2. Personas are stored as `.txt` files in `~/.persona/` folder
 3. When you type `@persona:name`, it loads that text file
 4. No data sent to external servers
@@ -389,7 +389,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full details.
 - Limited to OpenAI ecosystem
 - Can be shared publicly (privacy concerns)
 
-**Persona MCP:**
+**Leader's Decision Making Assistants:**
 - Runs locally on your computer
 - Works with Claude Desktop (any tier)
 - Open source and fully customizable
@@ -465,9 +465,9 @@ Special thanks to all community contributors!
 
 ## 🔗 Links
 
-- **GitHub**: https://github.com/seanshin0214/persona-mcp
-- **Issues**: https://github.com/seanshin0214/persona-mcp/issues
-- **Discussions**: https://github.com/seanshin0214/persona-mcp/discussions
+- **GitHub**: https://github.com/seanshin0214/leaders-decision-assistants
+- **Issues**: https://github.com/seanshin0214/leaders-decision-assistants/issues
+- **Discussions**: https://github.com/seanshin0214/leaders-decision-assistants/discussions
 
 ---
 

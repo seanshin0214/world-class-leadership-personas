@@ -1,6 +1,6 @@
-# GPT Knowledge Files - 103 Personas in 20 Files
+# GPT Knowledge Files - 108 Personas in 20 Files
 
-This folder contains 103 expert personas organized into 20 files for ChatGPT Custom GPT Knowledge upload.
+This folder contains 108 expert personas organized into 20 files for ChatGPT Custom GPT Knowledge upload.
 
 ## Development Methodology
 
@@ -10,11 +10,11 @@ These personas were developed through a rigorous, data-driven process:
 - **Expert archetype modeling** - distilling 20+ years of real-world experience into actionable frameworks
 - **Validation** - tested against Fortune 100 business scenarios and edge cases
 
-The newest addition, **The Council for Future Design (personas 96-103)**, represents executive-level advisors specifically designed to address complex strategic decisions requiring multiple perspectives.
+The newest addition, **The Council for Future Design (personas 96-108)**, represents executive-level advisors specifically designed to address complex strategic decisions requiring multiple perspectives.
 
 ## Why 20 Files?
 
-ChatGPT Custom GPTs work best with a limited number of knowledge files. Instead of uploading 103 individual persona files, we've consolidated them into 20 thematic files while preserving all 103 personas.
+ChatGPT Custom GPTs work best with a limited number of knowledge files. Instead of uploading 108 individual persona files, we've consolidated them into 20 thematic files while preserving all 108 personas.
 
 ## File Structure
 
@@ -60,7 +60,7 @@ ChatGPT Custom GPTs work best with a limited number of knowledge files. Instead 
 ### Executive Leadership Council (1 file)
 20. **20-mixed-remaining-personas.txt** - The Council for Future Design (8 executive advisors) + remaining personas + full index
 
-**Grand Total: 103 personas**
+**Grand Total: 108 personas**
 
 ---
 
@@ -78,7 +78,7 @@ The Council represents the pinnacle of business expertise - world-class advisors
 - **100-market-experience-creator** (시장 경험 창조자) - Stanford GSB, P&G Brand Director, Apple CX VP, Tesla CMO
 - **101-execution-capital-alchemist** (실행 자본 연금술사) - Wharton MBA, McKinsey Ops Partner, Goldman M&A MD, KKR/Blackstone
 - **102-agile-growth-architect** (민첩한 성장 설계자) - Google X, Y Combinator Partner, 3x Unicorn founder, a16z
-- **103-sustainability-policy-shaper** (지속가능성 정책 설계자) - Harvard Kennedy MPA, UN SDG Officer, World Bank Green Bond, EU Climate Advisor
+- **108-sustainability-policy-shaper** (지속가능성 정책 설계자) - Harvard Kennedy MPA, UN SDG Officer, World Bank Green Bond, EU Climate Advisor
 
 **When to Use the Council:**
 - Complex strategic decisions requiring multiple perspectives
@@ -94,7 +94,7 @@ The Council represents the pinnacle of business expertise - world-class advisors
 3. Use `@persona:name` to activate specific experts
 
 ### For Individual Use
-The full 103 individual persona files are still available in the `community/` folder.
+The full 108 individual persona files are still available in the `community/` folder.
 
 ## Category Breakdown
 
@@ -107,8 +107,8 @@ The full 103 individual persona files are still available in the `community/` fo
 
 ## Benefits
 
-✅ **All 103 personas preserved** - No content lost
-✅ **Optimized for GPT upload** - 20 files vs 103 files
+✅ **All 108 personas preserved** - No content lost
+✅ **Optimized for GPT upload** - 20 files vs 108 files
 ✅ **Better organization** - Thematic grouping + Executive Council
 ✅ **Faster loading** - Fewer files to process
 ✅ **Complete coverage** - Every category represented
@@ -124,7 +124,7 @@ The full 103 individual persona files are still available in the `community/` fo
 ---
 
 **Generated**: 2025-01-09 (Updated: 2025-01-10)
-**Personas**: 103 (including 8 Council members)
+**Personas**: 108 (including 8 Council members)
 **Files**: 20
 **Format**: Optimized for ChatGPT Custom GPT
 **Development**: Based on 30,000+ hypothetical questions across all domains

@@ -7,7 +7,7 @@ ChatGPT Persona Hub - 20 Combined Files (108 Personas Total)
 업로드 방법:
 ============
 1. ChatGPT 웹사이트 로그인 (https://chatgpt.com)
-2. "Explore GPTs" → "My GPTs" → "Persona Hub - 103 Expert AI Personas" 선택
+2. "Explore GPTs" → "My GPTs" → "Persona Hub - 108 Expert AI Personas" 선택
 3. "Edit" 버튼 클릭
 4. Knowledge 섹션에서 기존 파일 모두 삭제
 5. 이 폴더의 20개 .txt 파일 모두 업로드
@@ -17,7 +17,7 @@ ChatGPT Persona Hub - 20 Combined Files (108 Personas Total)
 ==========
 
 01-The-Council-Executive-Advisors.txt (8 personas, 61KB)
-   - 96-103: 최고급 경영 자문 페르소나 (전략, 윤리, 거버넌스, HR, 마케팅, 재무, 그로스, ESG)
+   - 96-108: 최고급 경영 자문 페르소나 (전략, 윤리, 거버넌스, HR, 마케팅, 재무, 그로스, ESG)
 
 02-Business-Strategy-Innovation.txt (5 personas, 37KB)
    - 혁신 전문가, 비즈니스 경영, 전략 컨설턴트, 제품 관리자, VP 혁신
@@ -100,7 +100,7 @@ ChatGPT Persona Hub - 20 Combined Files (108 Personas Total)
 - 모든 전문성, 방법론, 역량은 그대로 유지되었습니다
 
 GitHub Repository:
-https://github.com/seanshin0214/persona-mcp
+https://github.com/seanshin0214/leaders-decision-assistants
 
 Last Updated: 2025-11-10
 Version: Combined v1.0 (Brand-Free)

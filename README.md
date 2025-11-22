@@ -1,11 +1,12 @@
 # 🎯 Leader's Decision Making Assistants
 
-**108 Professional Personas for Strategic Leadership & Expert Decision Making**
+**138 World-Class Professional Personas for Strategic Leadership & Expert Decision Making**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/seanshin0214/leaders-decision-assistants?style=social)](https://github.com/seanshin0214/leaders-decision-assistants)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Professional Personas](https://img.shields.io/badge/personas-108-blue)](https://github.com/seanshin0214/leaders-decision-assistants/tree/main/community)
+[![Professional Personas](https://img.shields.io/badge/personas-138-blue)](https://github.com/seanshin0214/leaders-decision-assistants/tree/main/community)
+[![World-Class](https://img.shields.io/badge/quality-World--Class-gold)](https://github.com/seanshin0214/leaders-decision-assistants)
 
 An advanced persona management MCP server for Claude Desktop that revolutionizes how AI maintains specialized expertise while dramatically reducing token consumption.
 
@@ -13,8 +14,9 @@ An advanced persona management MCP server for Claude Desktop that revolutionizes
 
 ## ✨ What is Leader's Decision Making Assistants?
 
-A **Model Context Protocol (MCP) server** providing 108 professional expert personas for strategic decision making:
-- 🎯 **Access 108 world-class expert advisors** on demand
+A **Model Context Protocol (MCP) server** providing 138 world-class professional expert personas for strategic decision making:
+- 🎯 **Access 138 world-class expert advisors** on demand
+- 🌟 **All personas World-Class certified** - Extensive experience and deep expertise
 - 🚢 **Save 80%+ tokens** with "Submarine Mode" (0 tokens until triggered)
 - 🧠 **Smart context detection** - AI suggests the right expert automatically
 - 🔗 **Chain multiple experts** for comprehensive analysis
@@ -30,12 +32,14 @@ A **Model Context Protocol (MCP) server** providing 108 professional expert pers
 - **Individual File Management**: Each persona stored as a `.txt` file
 - **Simple CRUD Operations**: Create, update, delete personas with MCP tools
 
-### v2.0 Innovations
+### v2.0+ Innovations
 - **🧠 Smart Context Detection**: AI analyzes conversation and suggests optimal expert
 - **🔗 Expert Chaining**: Execute multiple experts sequentially for complex decisions
 - **📊 Usage Analytics**: Track patterns and improve recommendations (local storage only)
-- **🌟 Professional Collection**: 108 expert advisors ready to use
-- **🏛️ The Council for Future Design**: 8 world-class strategic advisors (NEW!)
+- **🌟 World-Class Collection**: 138 expert advisors ready to use (all World-Class certified!)
+- **🏛️ The Council for Future Design**: 8 world-class strategic advisors
+- **🔢 Numbered System**: Easy access with 001-138 numbering
+- **⚡ Automation Scripts**: Upgrade and numbering scripts included
 
 ---
 

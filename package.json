@@ -1,7 +1,7 @@
 {
   "name": "leaders-decision-assistants",
-  "version": "2.0.0",
-  "description": "Leader's Decision Making Assistants - 108 professional expert personas for strategic leadership and decision making. Smart context detection, expert chaining, and Submarine Mode for 80%+ token savings.",
+  "version": "2.1.0",
+  "description": "Leader's Decision Making Assistants - 138 world-class professional expert personas for strategic leadership and decision making. Smart context detection, expert chaining, and Submarine Mode for 80%+ token savings.",
   "type": "module",
   "main": "dist/index.js",
   "bin": {

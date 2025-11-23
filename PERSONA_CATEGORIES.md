@@ -1,6 +1,6 @@
 # 📚 Persona Categories
 
-**138 World-Class Expert Personas organized by category**
+**142 World-Class Expert Personas organized by category**
 
 ---
 
@@ -8,15 +8,17 @@
 
 ```
 100-199: 💻 Engineering & Development (30 personas)
-200-299: 🎨 Design & Creative (22 personas)
-300-399: 💼 Business & Strategy (34 personas)
-400-499: 🤖 Data, AI & ML (8 personas)
+200-299: 🎨 Design & Creative (23 personas) ← +1 UX Researcher
+300-399: 💼 Business & Strategy (35 personas) ← +1 Scrum Master
+400-499: 🤖 Data, AI & ML (10 personas) ← +2 LLM Engineer, AI Agent Developer
 500-599: 🧪 Testing & QA (2 personas)
 600-699: 📚 Education & Training (24 personas)
 700-799: 🔬 Science & Research (13 personas)
 800-899: 👔 Leadership & Management (2 personas)
 900-999: ⚖️  Legal & Advisory (3 personas)
 ```
+
+**🆕 NEW in v2.3.0: +4 World-Class+ Personas based on latest research**
 
 ---
 
@@ -65,12 +67,13 @@
 ## 🎨 200-299: Design & Creative (22)
 
 **Design & UX**
-- `201-ui-ux-designer` - UI/UX design
+- `201-ui-ux-designer` - UI/UX design (World-Class+)
 - `202-ux-design-expert` - User experience
 - `203-ux-design-expert` - UX strategy
 - `204-ux-designer-expert` - Design systems
 - `205-graphic-designer` - Visual design
 - `217-ux-copywriter` - UX writing
+- `223-ux-researcher` - ⭐ **NEW: User/UX Researcher** (World-Class+)
 
 **Content Creation**
 - `206-creative-writer` - Creative writing
@@ -141,10 +144,11 @@
 - `332-sustainability-policy-shaper` - ESG & sustainability
 - `333-business-storyteller-ai` - Business storytelling
 - `334-digital-transformation-leader` - Digital transformation
+- `337-scrum-master` - ⭐ **NEW: Scrum Master** (World-Class+, based on 2020 Scrum Guide)
 
 ---
 
-## 🤖 400-499: Data, AI & ML (8)
+## 🤖 400-499: Data, AI & ML (10)
 
 **Data Science & ML**
 - `401-data-scientist-expert` - Data science
@@ -157,6 +161,10 @@
 - `406-c-level-ai-champion` - C-level AI strategy
 - `407-c-level-ai-learner` - AI for executives
 - `408-management-consultant-ai` - AI consulting
+
+**LLM & Agent Development** ⭐ NEW
+- `410-llm-engineer` - ⭐ **NEW: LLM Engineer** (World-Class+, Transformers, Prompt Engineering, Deployment)
+- `411-ai-agent-developer` - ⭐ **NEW: AI Agent Developer** (World-Class+, Autonomous Systems, Multi-Agent)
 
 ---
 

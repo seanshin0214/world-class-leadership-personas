@@ -1,11 +1,11 @@
 {
-  "name": "leaders-decision-assistants",
+  "name": "world-class-leadership-personas",
   "version": "2.1.0",
-  "description": "Leader's Decision Making Assistants - 138 world-class professional expert personas for strategic leadership and decision making. Smart context detection, expert chaining, and Submarine Mode for 80%+ token savings.",
+  "description": "World-Class Leadership Assistant Personas - 138 world-class expert personas for all leaders' problem solving & strategic decision making. Smart context detection, expert chaining, and Submarine Mode for 80%+ token savings.",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
-    "leaders-decision-assistants": "./dist/index.js"
+    "world-class-leadership-personas": "./dist/index.js"
   },
   "scripts": {
     "build": "tsc",
@@ -17,11 +17,13 @@
   },
   "keywords": [
     "mcp",
-    "decision-making",
     "leadership",
+    "problem-solving",
+    "world-class",
     "expert-advisors",
+    "decision-making",
     "claude",
-    "ai",
+    "ai-personas",
     "token-optimization",
     "strategic-planning",
     "llm-tools"

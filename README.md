@@ -1,6 +1,8 @@
-# 🎯 Leader's Decision Making Assistants
+# 🎯 World-Class Leadership Assistant Personas
 
-**138 World-Class Professional Personas for Strategic Leadership & Expert Decision Making**
+**138 World-Class Expert Personas for All Leaders' Problem Solving & Strategic Decision Making**
+
+**모든 리더들의 문제 해결을 위한 138개 월드클래스 전문가 페르소나**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/seanshin0214/leaders-decision-assistants?style=social)](https://github.com/seanshin0214/leaders-decision-assistants)
@@ -8,13 +10,13 @@
 [![Professional Personas](https://img.shields.io/badge/personas-138-blue)](https://github.com/seanshin0214/leaders-decision-assistants/tree/main/community)
 [![World-Class](https://img.shields.io/badge/quality-World--Class-gold)](https://github.com/seanshin0214/leaders-decision-assistants)
 
-An advanced persona management MCP server for Claude Desktop that revolutionizes how AI maintains specialized expertise while dramatically reducing token consumption.
+An advanced persona management MCP server that provides **138 world-class expert personas** to solve every leader's challenges. From strategic planning to technical implementation, access the right expert at the right time with **80%+ token savings**.
 
 ---
 
-## ✨ What is Leader's Decision Making Assistants?
+## ✨ What is World-Class Leadership Assistant Personas?
 
-A **Model Context Protocol (MCP) server** providing 138 world-class professional expert personas for strategic decision making:
+A **Model Context Protocol (MCP) server** providing 138 world-class expert personas to solve every leader's challenges:
 - 🎯 **Access 138 world-class expert advisors** on demand
 - 🌟 **All personas World-Class certified** - Extensive experience and deep expertise
 - 🚢 **Save 80%+ tokens** with "Submarine Mode" (0 tokens until triggered)

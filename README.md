@@ -39,8 +39,8 @@ A **Model Context Protocol (MCP) server** providing 138 world-class expert perso
 - **🔗 Expert Chaining**: Execute multiple experts sequentially for complex decisions
 - **📊 Usage Analytics**: Track patterns and improve recommendations (local storage only)
 - **🌟 World-Class Collection**: 138 expert advisors ready to use (all World-Class certified!)
-- **🏛️ The Council for Future Design**: 8 world-class strategic advisors
-- **🔢 Numbered System**: Easy access with 001-138 numbering
+- **📂 Category-Based Organization**: 9 categories with 100-unit numbering system
+- **🔢 Smart Numbering**: 100s=Engineering, 200s=Design, 300s=Business, 400s=AI, 500s=Testing, 600s=Education, 700s=Science, 800s=Leadership, 900s=Legal
 - **⚡ Automation Scripts**: Upgrade and numbering scripts included
 
 ---
@@ -149,7 +149,25 @@ Reason: Educational context detected
 
 ## 🌟 Community Persona Collection
 
-**108 world-class expert personas included!**
+**138 world-class expert personas organized by category!**
+
+### 📂 Category-Based Organization (NEW!)
+
+All personas are now organized with a **100-unit numbering system** for easy navigation:
+
+```
+100-199: 💻 Engineering & Development (30 personas)
+200-299: 🎨 Design & Creative (22 personas)
+300-399: 💼 Business & Strategy (34 personas)
+400-499: 🤖 Data, AI & ML (8 personas)
+500-599: 🧪 Testing & QA (2 personas)
+600-699: 📚 Education & Training (24 personas)
+700-799: 🔬 Science & Research (13 personas)
+800-899: 👔 Leadership & Management (2 personas)
+900-999: ⚖️  Legal & Advisory (3 personas)
+```
+
+**📖 Full Catalog**: See [PERSONA_CATEGORIES.md](PERSONA_CATEGORIES.md) for complete list
 
 ### 🏛️ The Council for Future Design (NEW!)
 

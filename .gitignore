@@ -3,3 +3,11 @@ node_modules/
 *.log
 .env
 community.backup/
+
+# Vector Database (로컬만, Git 제외)
+.chroma/
+*.faiss
+vector-store/
+
+# Note: knowledge-base/ is tracked in Git
+# Users will download it automatically when cloning

@@ -6,9 +6,15 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/seanshin0214/world-class-leadership-personas?style=social)](https://github.com/seanshin0214/world-class-leadership-personas)
+[![GitHub Forks](https://img.shields.io/github/forks/seanshin0214/world-class-leadership-personas?style=social)](https://github.com/seanshin0214/world-class-leadership-personas/fork)
+[![GitHub Watchers](https://img.shields.io/github/watchers/seanshin0214/world-class-leadership-personas?style=social)](https://github.com/seanshin0214/world-class-leadership-personas)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Professional Personas](https://img.shields.io/badge/personas-142-blue)](https://github.com/seanshin0214/world-class-leadership-personas/tree/main/community)
-[![World-Class](https://img.shields.io/badge/quality-World--Class-gold)](https://github.com/seanshin0214/world-class-leadership-personas)
+[![World-Class+](https://img.shields.io/badge/quality-World--Class+-gold)](https://github.com/seanshin0214/world-class-leadership-personas)
+[![MCP Compatible](https://img.shields.io/badge/MCP-compatible-green)](https://modelcontextprotocol.io)
+[![Token Savings](https://img.shields.io/badge/token_savings-80%25+-success)](https://github.com/seanshin0214/world-class-leadership-personas)
+
+> **⭐ If you find this useful, please star this repository!** It helps others discover these World-Class+ personas.
 
 An advanced persona management MCP server that provides **142 World-Class+ expert personas** to solve every leader's challenges. From strategic planning to technical implementation, access the right expert at the right time with **80%+ token savings**.
 
@@ -503,11 +509,51 @@ Special thanks to all community contributors!
 
 ---
 
+## 📢 Share & Support
+
+**Love this project? Help spread the word!**
+
+[![Share on Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fseanshin0214%2Fworld-class-leadership-personas&style=social)](https://twitter.com/intent/tweet?text=Check%20out%20World-Class%20Leadership%20Personas%20-%20142%20AI%20expert%20advisors%20with%2080%25%2B%20token%20savings!&url=https://github.com/seanshin0214/world-class-leadership-personas)
+[![Share on LinkedIn](https://img.shields.io/badge/Share-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/seanshin0214/world-class-leadership-personas)
+[![Share on Reddit](https://img.shields.io/badge/Share-Reddit-orange?style=social&logo=reddit)](https://reddit.com/submit?url=https://github.com/seanshin0214/world-class-leadership-personas&title=World-Class%20Leadership%20Personas%20-%20142%20AI%20Experts)
+
+### Ways to Support:
+- ⭐ **Star this repository** on GitHub
+- 🔀 **Fork it** and create your own personas
+- 🐛 **Report bugs** or suggest features
+- 📝 **Contribute** new personas or improvements
+- 💬 **Share** with your network
+- 📖 **Write** about your experience using it
+
+---
+
+## 🌟 Showcase
+
+**Using World-Class+ Personas in your project?** We'd love to feature you!
+
+Submit your use case via [GitHub Discussions](https://github.com/seanshin0214/world-class-leadership-personas/discussions) and we'll add it here.
+
+**Featured Projects:**
+- *Your project could be here!* 🚀
+
+---
+
 ## 🔗 Links
 
-- **GitHub**: https://github.com/seanshin0214/leaders-decision-assistants
-- **Issues**: https://github.com/seanshin0214/leaders-decision-assistants/issues
-- **Discussions**: https://github.com/seanshin0214/leaders-decision-assistants/discussions
+- **GitHub**: https://github.com/seanshin0214/world-class-leadership-personas
+- **Issues**: https://github.com/seanshin0214/world-class-leadership-personas/issues
+- **Discussions**: https://github.com/seanshin0214/world-class-leadership-personas/discussions
+- **Releases**: https://github.com/seanshin0214/world-class-leadership-personas/releases
+
+---
+
+## 📊 Project Stats
+
+![GitHub repo size](https://img.shields.io/github/repo-size/seanshin0214/world-class-leadership-personas)
+![GitHub language count](https://img.shields.io/github/languages/count/seanshin0214/world-class-leadership-personas)
+![GitHub top language](https://img.shields.io/github/languages/top/seanshin0214/world-class-leadership-personas)
+![GitHub last commit](https://img.shields.io/github/last-commit/seanshin0214/world-class-leadership-personas)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/seanshin0214/world-class-leadership-personas)
 
 ---
 

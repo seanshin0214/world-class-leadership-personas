@@ -31,6 +31,7 @@ const __dirname = path.dirname(__filename);
 const PERSONA_DIR = path.join(os.homedir(), '.persona');
 const ANALYTICS_FILE = path.join(PERSONA_DIR, '.analytics.json');
 const COMMUNITY_DIR = path.join(__dirname, '..', 'community');
+const KNOWLEDGE_BASE_DIR = path.join(__dirname, '..', 'knowledge-base');
 
 // 타입 정의
 interface Analytics {
@@ -73,6 +74,37 @@ async function listPersonas(): Promise<string[]> {
     return files.filter(f => f.endsWith('.txt')).map(f => f.replace('.txt', ''));
   } catch (error) {
     return [];
+  }
+}
+
+// Knowledge base에서 페르소나 목록 가져오기
+async function listKnowledgeBasePersonas(): Promise<string[]> {
+  try {
+    const entries = await fs.readdir(KNOWLEDGE_BASE_DIR, { withFileTypes: true });
+    return entries
+      .filter(entry => entry.isDirectory())
+      .map(entry => entry.name);
+  } catch (error) {
+    return [];
+  }
+}
+
+// Knowledge base 문서 읽기
+async function readKnowledgeBase(personaId: string): Promise<string> {
+  try {
+    const personaDir = path.join(KNOWLEDGE_BASE_DIR, personaId, 'core-competencies');
+    const files = await fs.readdir(personaDir);
+    const mdFiles = files.filter(f => f.endsWith('.md'));
+    
+    if (mdFiles.length === 0) {
+      throw new Error(`No knowledge base documents found for persona ${personaId}`);
+    }
+    
+    // 첫 번째 문서 읽기 (또는 모든 문서 병합)
+    const content = await fs.readFile(path.join(personaDir, mdFiles[0]), 'utf-8');
+    return content;
+  } catch (error) {
+    throw new Error(`Knowledge base not found for persona ${personaId}: ${(error as Error).message}`);
   }
 }
 
@@ -689,21 +721,53 @@ server.setRequestHandler(CallToolRequestSchema, async (request) => {
 // 리소스 목록
 server.setRequestHandler(ListResourcesRequestSchema, async () => {
   const personas = await listPersonas();
-  return {
-    resources: personas.map(name => ({
+  const knowledgeBasePersonas = await listKnowledgeBasePersonas();
+  
+  const resources = [
+    // 기존 .txt 페르소나
+    ...personas.map(name => ({
       uri: `persona://${name}`,
       mimeType: 'text/plain',
       name: `Persona: ${name}`,
       description: `${name} 페르소나 프로필`,
     })),
-  };
+    // Knowledge base 페르소나
+    ...knowledgeBasePersonas.map(id => ({
+      uri: `persona://${id}/knowledge-base`,
+      mimeType: 'text/markdown',
+      name: `${id} Knowledge Base`,
+      description: `${id} 전문 지식 베이스 (상세 문서, 코드 예제, 베스트 프랙티스)`,
+    })),
+  ];
+  
+  return { resources };
 });
 
 // 리소스 읽기
 server.setRequestHandler(ReadResourceRequestSchema, async (request) => {
   const uri = request.params.uri;
+  
+  // Knowledge base 리소스 체크
+  const kbMatch = uri.match(/^persona:\/\/(.+)\/knowledge-base$/);
+  if (kbMatch) {
+    const personaId = kbMatch[1];
+    const content = await readKnowledgeBase(personaId);
+    
+    await trackUsage(personaId, '');
+    
+    return {
+      contents: [
+        {
+          uri,
+          mimeType: 'text/markdown',
+          text: content,
+        },
+      ],
+    };
+  }
+  
+  // 기존 .txt 페르소나
   const match = uri.match(/^persona:\/\/(.+)$/);
-
   if (!match) {
     throw new Error('Invalid persona URI');
   }

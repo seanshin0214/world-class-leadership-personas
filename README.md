@@ -658,6 +658,51 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full details.
 - See [CONTRIBUTING.md](CONTRIBUTING.md) for details
 
 ---
+---
+
+## 🌐 Use with ChatGPT (GPT + ngrok)
+
+**Want to use these personas in ChatGPT Custom GPTs?**
+
+You can expose your local MCP server via ngrok and connect it to ChatGPT Actions!
+
+### Quick Start
+
+```bash
+# 1. Start HTTP API server
+node http-server.js
+
+# 2. In another terminal, start ngrok
+ngrok http 3000
+
+# 3. Copy the ngrok URL and add to your GPT Actions
+```
+
+### Important: ngrok Free vs Paid
+
+| Feature | Free | Paid ($8/month~) |
+|---------|------|-------------------|
+| **URL** | Changes every restart | **Fixed domain** |
+| **GPT Actions update** | **Required every time** | One-time setup |
+| **Session limit** | 2 hours | Unlimited |
+
+> **Recommendation**: For production use, ngrok paid plan is strongly recommended to avoid updating GPT Actions every time.
+
+### What You Get
+
+- Access all 142+ personas from ChatGPT
+- Real-time knowledge base search
+- Same expert-level responses as Claude Desktop
+- Works on mobile and web
+
+### Full Guide
+
+See **[docs/GPT-NGROK-INTEGRATION.md](docs/GPT-NGROK-INTEGRATION.md)** for:
+- Complete setup instructions
+- OpenAPI schema for GPT Actions
+- Local-only options (ChromaDB/SQLite)
+- Security configuration
+
 
 ## 📚 Documentation
 

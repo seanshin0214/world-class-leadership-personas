@@ -11,3 +11,9 @@ vector-store/
 
 # Note: knowledge-base/ is tracked in Git
 # Users will download it automatically when cloning
+
+rag/data/
+rag/__pycache__/
+__pycache__/
+*.pyc
+

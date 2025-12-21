@@ -29,6 +29,10 @@
 
 An advanced persona management MCP server that provides **142 World-Class+ expert personas** to solve every leader's challenges. From strategic planning to technical implementation, access the right expert at the right time with **80%+ token savings**.
 
+<a href="https://glama.ai/mcp/servers/@seanshin0214/persona-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@seanshin0214/persona-mcp/badge" alt="Persona MCP server" />
+</a>
+
 ---
 
 ## ✨ What is World-Class Leadership Assistant Personas?

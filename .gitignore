@@ -9,7 +9,6 @@ community.backup/
 *.faiss
 vector-store/
 
-# Note: knowledge-base/ is tracked in Git
 # Users will download it automatically when cloning
 
 rag/data/
@@ -19,9 +18,4 @@ __pycache__/
 
 
 # Knowledge files (stored in Supabase, not in git)
-knowledge-base/
-gpt-knowledge/
-gpts-knowledge/
-community/
 
-community.backup-reorganize/
